@@ -1,8 +1,7 @@
 Hello world
 Good bye
 sfjisgfig
-<<<<<<< HEAD
-Another from user1
-=======
 line from user2
 >>>>>>> b5fd39348ada30fdd3513d5ad0ffa4b29509d6d2
+Line from user 1
+Lesson about rebase
